@@ -1,0 +1,16 @@
+﻿<Window x:Class="TopUpGame.PilihDmML"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TopUpGame"
+        mc:Ignorable="d"
+        Title="PilihDmML" Height="768" Width="1366">
+    <Window.Background>
+        <ImageBrush ImageSource="D:\semster 3\pmrog\kyy\TopUpGame\TopUpGame\Asset\PilihDm.jpg"></ImageBrush>
+    </Window.Background>
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Height="140" Margin="58,335,0,0" VerticalAlignment="Top" Width="189"/>
+
+    </Grid>
+</Window>
